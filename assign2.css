@@ -74,12 +74,12 @@ a {
 }
 
 footer {
-    height: 130px;
+    height: 350px;
     /* border: solid red;*/
     margin-top: 1%;
     text-align: center;
-    background-color: #3b2632;
-    color: white;
+    background-color: #e0ccd7;
+    color: gray;
     display: inline-block;
     width: 100%;
     padding-bottom: 1%;
@@ -87,11 +87,16 @@ footer {
 
 .footDiv {
     height: 70px;
-    width: 33%;
+    width: 20%;
     float: left;
     border-right: 2px solid white
 }
 
 .noborder {
     border: none
+}
+
+.link {
+    width: 25%;
+    float: left
 }
